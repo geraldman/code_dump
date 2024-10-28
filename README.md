@@ -19,3 +19,8 @@ and process it based on the chosen action:
 - [2] Count a k-mer pattern
 
 - [3] Find most frequent k-mer patterns
+
+### 2. mutliply-and-exponential-with-addition.cpp
+this program will take two numbers, process it, and returns
+multiplied value and powered value of 'num1' and 'num2'. The twist of this
+program is the program is made using addition operator only
